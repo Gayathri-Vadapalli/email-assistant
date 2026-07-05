@@ -122,12 +122,6 @@ cd email-writer-react
 npm run build
 ```
 
-## Deployment
-
-Direct application URL: <https://email-writer-app.example.com>
-
-> Replace the dummy URL above with the real production link when the app is deployed.
-
 ## Notes
 
 - The backend must be running before the frontend or extension can generate replies.
